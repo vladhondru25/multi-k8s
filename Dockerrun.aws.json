@@ -10,7 +10,7 @@
         },
         {
             "name": "server",
-            "image": "vladhondru25/multi-api",
+            "image": "vladhondru25/multi-server",
             "hostname": "api",
             "essential": false,
             "memory": 128
